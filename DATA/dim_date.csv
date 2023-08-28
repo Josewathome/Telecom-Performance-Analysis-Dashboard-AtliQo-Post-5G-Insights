@@ -1,0 +1,9 @@
+date,month_name,before/after_5g,time_period,before_after_5G
+1-Jan-22,Jan,Before 5G,1,1
+1-Feb-22,Feb,Before 5G,2,1
+1-Mar-22,Mar,Before 5G,3,1
+1-Apr-22,Apr,Before 5G,4,1
+1-Jun-22,Jun,After 5G,1,0
+1-Jul-22,Jul,After 5G,2,0
+1-Aug-22,Aug,After 5G,3,0
+1-Sep-22,Sep,After 5G,4,0

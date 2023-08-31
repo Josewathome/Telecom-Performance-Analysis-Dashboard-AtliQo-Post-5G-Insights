@@ -1,0 +1,40 @@
+Project Title: Enhancing Telecom Performance Insights with 5G Launch Dashboard
+
+               Project Overview:
+In this project, I have taken on the role of Peter Pandey, a junior data analyst at AtliQo, one of India's prominent telecom providers. The task at hand is to analyze the impact of the 5G launch on AtliQo's business performance. The management has observed a decline in active users and revenue growth post the 5G launch in May 2022. My mission is to create an insightful and user-friendly dashboard using Power BI that helps executive management understand the key performance indicators (KPIs) before and after the 5G launch. The goal is to provide actionable insights for decision-making to recover active user rates and overall revenue growth.
+
+              Dashboard Objective:
+To provide top-level management with a comprehensive comparison report showcasing the performance metrics before and after the 5G launch. The dashboard aims to offer a clear visualization of key metrics and trends, enabling executives to make informed decisions and optimize internet plans to attract more active users.
+
+               Dashboard Elements:
+
+Total Revenue Trend: Visual representation of AtliQo's total revenue over time, highlighting the periods before and after the 5G launch.
+
+Average Revenue per User (ARPU): Comparative view of ARPU before and after 5G, helping to understand the revenue generated per user.
+
+Active User Evolution: A chart displaying the monthly active users' average trend to assess changes in user engagement.
+
+Market Share Insights: Percentage-based market share analysis showcasing AtliQo's position relative to competitors before and after 5G implementation.
+
+User Engagement Fluctuations: Graphical representation of subscribed and unsubscribed user counts for each period, aiding in understanding user retention dynamics.
+
+Plan Performance: An overview of plan-specific revenues before and after the 5G launch, identifying the most profitable plans.
+
+City-Wise Analysis: Region-specific insights to understand how different cities contribute to AtliQo's performance changes.
+
+               Dashboard Design Considerations:
+
+Given the target audience's high-level management position, the dashboard focuses on simplicity and clarity. Each visual element is designed to convey information without complexity.
+
+                Added Value Insights:
+
+In addition to the provided metrics, I've included the following insightful visuals to support decision-making:
+
+Monthly ARPU Fluctuations: Understanding ARPU variations within the pre and post-5G periods to identify patterns.
+
+Total Market Value (TMV) Analysis: A comparison of TMV for different competitors before and after 5G to contextualize AtliQo's performance.
+
+User Growth Rate: Calculating the growth rate of active users for each period to gauge the pace of user acquisition.
+
+Conclusion:
+This Power BI dashboard offers a comprehensive comparison of key performance metrics before and after the 5G launch, aiding AtliQo's executive management in making strategic decisions to recover active user rates and revenue growth. The user-friendly design ensures that even individuals with minimal dashboard experience can easily interpret the insights and take decisive actions to optimize their internet plans and regain a strong market position.

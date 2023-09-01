@@ -1,7 +1,7 @@
 Project Title: Enhancing Telecom Performance Insights with 5G Launch Dashboard
 
                Project Overview:
-In this project, I have taken on the role of Peter Pandey, a junior data analyst at AtliQo, one of India's prominent telecom providers. The task at hand is to analyze the impact of the 5G launch on AtliQo's business performance. The management has observed a decline in active users and revenue growth post the 5G launch in May 2022. My mission is to create an insightful and user-friendly dashboard using Power BI that helps executive management understand the key performance indicators (KPIs) before and after the 5G launch. The goal is to provide actionable insights for decision-making to recover active user rates and overall revenue growth.
+In this project, I have taken on the role of Joseph Wathome, a junior data analyst at AtliQo, one of India's prominent telecom providers. The task at hand is to analyze the impact of the 5G launch on AtliQo's business performance. The management has observed a decline in active users and revenue growth post the 5G launch in May 2022. My mission is to create an insightful and user-friendly dashboard using Power BI that helps executive management understand the key performance indicators (KPIs) before and after the 5G launch. The goal is to provide actionable insights for decision-making to recover active user rates and overall revenue growth.
 
               Dashboard Objective:
 To provide top-level management with a comprehensive comparison report showcasing the performance metrics before and after the 5G launch. The dashboard aims to offer a clear visualization of key metrics and trends, enabling executives to make informed decisions and optimize internet plans to attract more active users.
